@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "name": "Burger king",
+    "address": "Lekki. 11b Victoria Arobieke St, Lekki Phase 1",
+    "cuisine": "American",
+    "website": "https://www.burger-king.ng/",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "Teststreet 10, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "id": "r3",
+    "name": "Restaurant 3",
+    "address": "Awesomestreet 5, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! ofcourse!"
+  },
+  {
+    "name": "Munich Finest Restaurant",
+    "address": "Greatstreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's munich that's where I live.",
+    "id": "42bc6d43-4e0b-4113-8392-561d5319d130"
+  },
+  {
+    "name": "chicken republic",
+    "address": "APO RESETTLEMENT AREA, 900110, Abuja, Federal Capital Territory",
+    "cuisine": "Nigerian",
+    "website": "https://www.chicken-republic.com/",
+    "description": "It's too good!",
+    "id": "f307477d-fc36-41cb-88f8-1d11997405f3"
+  }
+]
